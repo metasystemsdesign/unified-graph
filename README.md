@@ -16,8 +16,8 @@ This standard under development is aimed at preserving cognitive energy, ensurin
 
 ### 📂 Specifications
 
-* [Invariant Visual Semantics v0.1 (EN)](specs/Unified_Graph_v0.1_EN.pdf) — Concept description in English.
-* [Invariant Visual Semantics v0.1 (RU)](specs/Unified_Graph_v0.1_RU.pdf) — Описание концепта на русском языке.
+* [Invariant Visual Semantics v0.1 (EN)](specs/Unified_Graph_v0.1_EN.pdf) — Method description in English.
+* [Invariant Visual Semantics v0.1 (RU)](specs/Unified_Graph_v0.1_RU.pdf) — Описание метода на русском языке.
 * [Human-Centered Value Formation Model (Dec 2025)](https://github.com/syntengine/semantic-source/tree/main/00_Specifications/Syntengine_Creatives) — Initial model provenance.
 
 ---
